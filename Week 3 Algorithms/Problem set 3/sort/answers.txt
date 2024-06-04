@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: If the sorting speed in reverse is very low, the sorting method is Bubble
+
+sort2 uses: Merge Sort
+
+How do you know?: If the reverse sort speed is high, the sorting method is Merge
+
+sort3 uses: Selection Sort
+
+How do you know?: If the sorting speed in reverse is moderate, the sorting method is Selection
