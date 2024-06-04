@@ -49,6 +49,9 @@ Regardless of the chosen path, you'll need a free edX account.
 CS50 also recommends having a free GitHub account for submitting your problem sets.
 The course content is designed to be self-paced, so you can work through it on your own schedule.
 CS50 offers a vibrant online community for help and discussions.
+# 🌐 CS50 in Iran (CS50x Tehran)
+![CS50x Tehran](https://media.licdn.com/dms/image/D4E3DAQG-5M7obNmY1A/image-scale_191_1128/0/1681389498799/cs50xtehran_cover?e=2147483647&v=beta&t=cbEuLD4eTQR87qsuwdFyOKo3SfKV8ENkdxhKxfC-KF8)
+https://cs50xtehran.ir/
 # 👨‍🏫 Aref Tavassoli
 ![Aref Tavassoli](https://cs50xtehran.ir/wp-content/uploads/2024/02/3ea7168e3ef3e4319784ffff15132706-e1707116098333-1024x571.webp)
 Aref Tavassoli is a highly accomplished computer scientist with a distinguished background in education and research. He possesses expertise in a wide range of fields, including programming, artificial intelligence, and nuclear physics.
@@ -62,11 +65,7 @@ Author and Translator: He has authored and translated books and articles in the 
 Researcher: Aref Tavassoli has conducted research in artificial intelligence and its applications across various scientific disciplines.
 Speaker: He has graced conferences and events as a speaker, delivering insights on computer science-related topics.
 Aref Tavassoli's unwavering commitment to education and his passion for sharing knowledge have established him as a prominent figure in Iran's computer science landscape.
-# 🌐 CS50 in Iran (CS50x Tehran)
-![CS50x Tehran](https://media.licdn.com/dms/image/D4E3DAQG-5M7obNmY1A/image-scale_191_1128/0/1681389498799/cs50xtehran_cover?e=2147483647&v=beta&t=cbEuLD4eTQR87qsuwdFyOKo3SfKV8ENkdxhKxfC-KF8)
-<p  align="center">
-  <a href="https://cs50xtehran.ir/"><img src="https://nau.edu/wp-content/uploads/sites/154/2018/08/visit-button-ek.png" alt="Visit"/></a>
-</p>
+
 
 
 
