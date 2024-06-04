@@ -72,3 +72,6 @@ Aref Tavassoli's Eseminar Page: https://eseminar.tv/
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
 
 [![](https://nau.edu/wp-content/uploads/sites/154/2018/08/visit-button-ek.png)](https://github.com/user/repository/subscription)
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
