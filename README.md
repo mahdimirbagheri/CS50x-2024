@@ -50,7 +50,9 @@ Regardless of the chosen path, you'll need a free edX account.
 CS50 also recommends having a free GitHub account for submitting your problem sets.
 The course content is designed to be self-paced, so you can work through it on your own schedule.
 CS50 offers a vibrant online community for help and discussions.
-# 🌐 CS50 in Iran
+# 🌐 CS50 in Iran (CS50x Tehran)
+![David J. Malan](![image](https://github.com/mahdimirbagheri/CS50x-2024/assets/120129255/6fb4bae2-2b23-47ce-8fe2-819aa16c7e46))
+
 Aref Tavassoli is a highly accomplished computer scientist with a distinguished background in education and research. He possesses expertise in a wide range of fields, including programming, artificial intelligence, and nuclear physics.
 Here's a summary of his notable accomplishments:Official CS50x Harvard Instructor: Aref Tavassoli serves as an official instructor for CS50x, spreading fundamental computer science concepts to learners worldwide through Harvard University's renowned course.
 Founder and Lead Teacher of CS50x Rasht: He is the driving force behind CS50x Rasht, an authorized CS50x provider in Iran, offering CS50 courses with Harvard's official endorsement.
