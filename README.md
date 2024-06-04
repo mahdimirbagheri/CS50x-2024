@@ -51,7 +51,9 @@ The course content is designed to be self-paced, so you can work through it on y
 CS50 offers a vibrant online community for help and discussions.
 # 🌐 CS50 in Iran (CS50x Tehran)
 ![David J. Malan](https://media.licdn.com/dms/image/D4E3DAQG-5M7obNmY1A/image-scale_191_1128/0/1681389498799/cs50xtehran_cover?e=2147483647&v=beta&t=cbEuLD4eTQR87qsuwdFyOKo3SfKV8ENkdxhKxfC-KF8)
-
+<p align="center">
+[![](https://nau.edu/wp-content/uploads/sites/154/2018/08/visit-button-ek.png)](https://github.com/user/repository/subscription)
+</p>
 Aref Tavassoli is a highly accomplished computer scientist with a distinguished background in education and research. He possesses expertise in a wide range of fields, including programming, artificial intelligence, and nuclear physics.
 Here's a summary of his notable accomplishments:Official CS50x Harvard Instructor: Aref Tavassoli serves as an official instructor for CS50x, spreading fundamental computer science concepts to learners worldwide through Harvard University's renowned course.
 Founder and Lead Teacher of CS50x Rasht: He is the driving force behind CS50x Rasht, an authorized CS50x provider in Iran, offering CS50 courses with Harvard's official endorsement.
@@ -69,9 +71,3 @@ Aref Tavassoli's Aparat Channel: https://www.aparat.com/result/aref_tavasoli
 Aref Tavassoli's Eseminar Page: https://eseminar.tv/
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdi___mirbagheri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZS6qGzzgT%2B%2BmXAiAGDhFvQ%3D%3D) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21915481/exceptional-boy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mohammad208506) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderscafe8) 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
-
-[![](https://nau.edu/wp-content/uploads/sites/154/2018/08/visit-button-ek.png)](https://github.com/user/repository/subscription)
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p>
