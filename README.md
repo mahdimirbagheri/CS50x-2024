@@ -51,8 +51,8 @@ The course content is designed to be self-paced, so you can work through it on y
 CS50 offers a vibrant online community for help and discussions.
 # 🌐 CS50 in Iran (CS50x Tehran)
 ![David J. Malan](https://media.licdn.com/dms/image/D4E3DAQG-5M7obNmY1A/image-scale_191_1128/0/1681389498799/cs50xtehran_cover?e=2147483647&v=beta&t=cbEuLD4eTQR87qsuwdFyOKo3SfKV8ENkdxhKxfC-KF8)
-<p href="https://cs50xtehran.ir/" align="center">
-  <img src="https://nau.edu/wp-content/uploads/sites/154/2018/08/visit-button-ek.png" alt="Visit"/>
+<p  align="center">
+  <img  href="https://cs50xtehran.ir/" src="https://nau.edu/wp-content/uploads/sites/154/2018/08/visit-button-ek.png" alt="Visit"/>
 </p>
 Aref Tavassoli is a highly accomplished computer scientist with a distinguished background in education and research. He possesses expertise in a wide range of fields, including programming, artificial intelligence, and nuclear physics.
 Here's a summary of his notable accomplishments:Official CS50x Harvard Instructor: Aref Tavassoli serves as an official instructor for CS50x, spreading fundamental computer science concepts to learners worldwide through Harvard University's renowned course.
