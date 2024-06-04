@@ -1,4 +1,4 @@
-# 💫 CS50x:
+# (https://slackmojis.com/emojis/49191-harvard/download) CS50x:
 🔭 I'm Work On World<br>
 🌱 For Make Best Future<br>
 ⚡ This is the way
