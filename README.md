@@ -32,6 +32,23 @@ Professor at Harvard University: Malan is a Gordon McKay Professor of the Practi
 CS50 Instructor: CS50, which stands for Computer Science 50, is a massive open online course (MOOC) offered through edX. It's the largest open-learning course at Harvard and Yale and one of the biggest MOOCs on edX, with over a million people having viewed lectures by 2017 https://en.wikipedia.org/wiki/David_J._Malan.
 Research Interests: Malan's research interests span various areas of computer science, including cybersecurity, digital forensics, botnets, computer science education, and online learning methodologies https://en.wikipedia.org/wiki/David_J._Malan.
 If you'd like to learn more about David J. Malan, you can visit his Harvard faculty webpage https://cs.harvard.edu/malan/ or his profile on edX https://www.edx.org/bio/david-j-malan.
+# 📚 How to join in CS50x
+There are two main ways to join CS50, depending on whether you want a formal certificate or not:
+
+Free access (no certificate):
+
+Head over to the CS50 Introduction to Computer Science course page on edX: CS50 edX
+You can start working through the lectures, readings, and problem sets at your own pace. This is a completely free option.
+Verified certificate (optional):
+
+Enroll for the verified certificate track on the same edX page: CS50 edX There will be a fee associated with this option.
+This gives you access to graded assignments and a verified certificate upon completion.
+Here are some additional things to keep in mind:
+
+Regardless of the chosen path, you'll need a free edX account.
+CS50 also recommends having a free GitHub account for submitting your problem sets.
+The course content is designed to be self-paced, so you can work through it on your own schedule.
+CS50 offers a vibrant online community for help and discussions.
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdi___mirbagheri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZS6qGzzgT%2B%2BmXAiAGDhFvQ%3D%3D) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21915481/exceptional-boy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mohammad208506) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderscafe8) 
 
