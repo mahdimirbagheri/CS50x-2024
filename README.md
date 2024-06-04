@@ -25,6 +25,7 @@ Check out the official CS50 website for detailed information: [CS50 Harvard Univ
 If you're interested in the online version, visit the CS50x page on edX: [HarvardX CS50's Introduction to Computer Science]
 You can also find CS50 lectures and other resources on the CS50 YouTube channel: [CS50 YouTube]
 # 👨‍🏫 David J. Malan
+![David J. Malan](https://cs.harvard.edu/malan/malan.jpg)
 David J. Malan is a computer scientist and professor best known for teaching the popular introductory computer science course, CS50, at Harvard University. Here's a summary of his accomplishments:
 
 Professor at Harvard University: Malan is a Gordon McKay Professor of the Practice of Computer Science at Harvard's John A. Paulson School of Engineering and Applied Sciences https://cs.harvard.edu/malan/. He is also a member of the Faculty of Education in the Graduate School of Education https://www.edx.org/bio/david-j-malan.
