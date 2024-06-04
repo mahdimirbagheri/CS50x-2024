@@ -66,6 +66,8 @@ Researcher: Aref Tavassoli has conducted research in artificial intelligence and
 Speaker: He has graced conferences and events as a speaker, delivering insights on computer science-related topics.
 Aref Tavassoli's unwavering commitment to education and his passion for sharing knowledge have established him as a prominent figure in Iran's computer science landscape.
 To explore more about Aref Tavassoli, you can visit the following websites and channels:
+<pre>
 CS50x Rasht Website: https://evand.com/events?categories=%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C&page=2
 Aref Tavassoli's Aparat Channel: https://www.aparat.com/result/aref_tavasoli
 Aref Tavassoli's Eseminar Page: https://eseminar.tv/
+</pre>
