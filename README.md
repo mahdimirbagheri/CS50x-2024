@@ -3,7 +3,8 @@
 # 🏰 Harvard (CS50x) 2024:
 ![cs50](https://facialix.com/wp-content/uploads/2023/05/curso-gratis-de-harvard-facialix.jpg)
 
-CS50 is an introductory computer science course offered by Harvard University. It's designed for people of all backgrounds, with or without prior programming experience. Here's a breakdown of the key things to know about CS50:
+* CS50 is an introductory computer science course offered by Harvard University. It's designed for people of all backgrounds, with or without prior programming 
+* experience. Here's a breakdown of the key things to know about CS50:
 
 Introduction
 
