@@ -55,14 +55,15 @@ CS50 offers a vibrant online community for help and discussions.
 ![CS50x Tehran](https://media.licdn.com/dms/image/D4E3DAQG-5M7obNmY1A/image-scale_191_1128/0/1681389498799/cs50xtehran_cover?e=2147483647&v=beta&t=cbEuLD4eTQR87qsuwdFyOKo3SfKV8ENkdxhKxfC-KF8)
 CS50x Tehran is a local initiative offering the introductory computer science course CS50 developed by Harvard University. CS50x Tehran provides the CS50 curriculum in a format accessible to Iranian learners, often with materials translated into Farsi.
 Here are some details about CS50x Tehran:
-Collaborates with the University of Tehran: CS50x Tehran leverages the prestigioius University of Tehran's reputation and network.
-Offers Python and Web Development Course: The curriculum focuses on Python programming and web development, equipping students with in-demand skills.
+* Collaborates with the University of Tehran: CS50x Tehran leverages the prestigioius University of Tehran's reputation and network.
+* Offers Python and Web Development Course: The curriculum focuses on Python programming and web development, equipping students with in-demand skills.
 Provides International Certification: Upon successful completion of the course and assignments, students can earn a certificate from Harvard University and the University of Tehran.
 While CS50x Tehran's website doesn't mention current or upcoming courses, searching online reveals that they've offered courses in the past.  You can check their social media pages or reach out to them for information on upcoming offerings.
 Here are some resources to learn more about CS50x Tehran:
 https://cs50xtehran.ir/
 # 👨‍🏫 Aref Tavassoli
 ![Aref Tavassoli](https://cs50xtehran.ir/wp-content/uploads/2024/02/3ea7168e3ef3e4319784ffff15132706-e1707116098333-1024x571.webp)
+
 Aref Tavassoli is a highly accomplished computer scientist with a distinguished background in education and research. He possesses expertise in a wide range of fields, including programming, artificial intelligence, and nuclear physics.
 Here's a summary of his notable accomplishments:Official CS50x Harvard Instructor: Aref Tavassoli serves as an official instructor for CS50x, spreading fundamental computer science concepts to learners worldwide through Harvard University's renowned course.
 Founder and Lead Teacher of CS50x Rasht: He is the driving force behind CS50x Rasht, an authorized CS50x provider in Iran, offering CS50 courses with Harvard's official endorsement.
