@@ -58,7 +58,8 @@ Here are some details about CS50x Tehran:
 * Collaborates with the University of Tehran: CS50x Tehran leverages the prestigioius University of Tehran's reputation and network.
 * Offers Python and Web Development Course: The curriculum focuses on Python programming and web development, equipping students with in-demand skills.
 Provides International Certification: Upon successful completion of the course and assignments, students can earn a certificate from Harvard University and the University of Tehran.
-While CS50x Tehran's website doesn't mention current or upcoming courses, searching online reveals that they've offered courses in the past.  You can check their social media pages or reach out to them for information on upcoming offerings.
+While CS50x Tehran's website doesn't mention current or upcoming courses, searching online reveals that they've offered courses in the past.
+* You can check their social media pages or reach out to them for information on upcoming offerings.
 Here are some resources to learn more about CS50x Tehran:
 https://cs50xtehran.ir/
 # 👨‍🏫 Aref Tavassoli
