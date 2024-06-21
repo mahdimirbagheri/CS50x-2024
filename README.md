@@ -65,16 +65,24 @@ https://cs50xtehran.ir/
 # 👨‍🏫 Aref Tavassoli
 ![Aref Tavassoli](https://cs50xtehran.ir/wp-content/uploads/2024/02/3ea7168e3ef3e4319784ffff15132706-e1707116098333-1024x571.webp)
 
-Aref Tavassoli is a highly accomplished computer scientist with a distinguished background in education and research. He possesses expertise in a wide range of fields, including programming, artificial intelligence, and nuclear physics.
-Here's a summary of his notable accomplishments:Official CS50x Harvard Instructor: Aref Tavassoli serves as an official instructor for CS50x, spreading fundamental computer science concepts to learners worldwide through Harvard University's renowned course.
-Founder and Lead Teacher of CS50x Rasht: He is the driving force behind CS50x Rasht, an authorized CS50x provider in Iran, offering CS50 courses with Harvard's official endorsement.
-Senior Python Developer: Aref Tavassoli brings his expertise as a senior Python developer to the AI unit of Tehran Municipality's Urban Planning and Research Center.
-Designer of an AI-Powered Burn Diagnosis and Treatment System: Leveraging artificial intelligence and machine vision, he has developed an innovative system for burn diagnosis and treatment.
-Extensive Teaching Experience: With over a decade of teaching computer science at various levels, Aref Tavassoli has graced the faculties of esteemed universities and educational institutions in Iran.
-Beyond these notable achievements, Aref Tavassoli actively engages in other endeavors, including:
+Aref Tavassoli is a highly accomplished computer scientist with a distinguished background in education and research.
+He possesses expertise in a wide range of fields, including programming, artificial intelligence, and nuclear physics.
+* Here's a summary of his notable accomplishments:Official CS50x Harvard Instructor:
+Aref Tavassoli serves as an official instructor for CS50x, spreading fundamental computer science concepts to learners worldwide through Harvard University's renowned course.
+* Founder and Lead Teacher of CS50x Rasht:
+He is the driving force behind CS50x Rasht, an authorized CS50x provider in Iran, offering CS50 courses with Harvard's official endorsement.
+* Senior Python Developer:
+Aref Tavassoli brings his expertise as a senior Python developer to the AI unit of Tehran Municipality's Urban Planning and Research Center.
+* Designer of an AI-Powered Burn Diagnosis and Treatment System:
+Leveraging artificial intelligence and machine vision, he has developed an innovative system for burn diagnosis and treatment.
+* Extensive Teaching Experience:
+With over a decade of teaching computer science at various levels, Aref Tavassoli has graced the faculties of esteemed universities and educational institutions in Iran.
+* Beyond these notable achievements, Aref Tavassoli actively engages in other endeavors, including:
 Author and Translator: He has authored and translated books and articles in the realm of computer science.
-Researcher: Aref Tavassoli has conducted research in artificial intelligence and its applications across various scientific disciplines.
-Speaker: He has graced conferences and events as a speaker, delivering insights on computer science-related topics.
+* Researcher:
+Aref Tavassoli has conducted research in artificial intelligence and its applications across various scientific disciplines.
+* Speaker:
+He has graced conferences and events as a speaker, delivering insights on computer science-related topics.
 Aref Tavassoli's unwavering commitment to education and his passion for sharing knowledge have established him as a prominent figure in Iran's computer science landscape.
 
 
