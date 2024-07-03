@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #bf033b;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.card {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background: #fff;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(15px);
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+}
+
+.img-box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+    transform: translateY(30px) scale(0.5);
+    transform-origin: top;
+}
+
+.img-box img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 50px;
+}
+
+.content .details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.content .details h2 {
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+
+.content .details h2 span {
+    font-size: 0.7em;
+    color: #47b2e4;
+    font-family: 400;
+}
+
+.sci {
+    position: relative;
+    display: flex;
+    margin-top: 10px;
+}
+
+.sci li {
+    list-style: none;
+    margin: 10px;
+}
+
+.sci li a {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background: transparent;
+    font-size: 1.25em;
+    color: #fff;
+    text-decoration: none;
+    box-shadow: 0 7px 15px rgba(0, 0, 0, 1);
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    transition: 0.5s;
+}
+
+.sci li a:hover {
+    background: #47b2e4;
+    color: #fff;
+}

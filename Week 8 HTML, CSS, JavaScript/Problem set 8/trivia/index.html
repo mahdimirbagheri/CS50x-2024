@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            // TODO: Add code to check answers to questions
+            function corChecker(correct, element) {
+                if (correct) {
+                    document.getElementById(element).style.color = "green";
+                    document.getElementById(element).innerHTML = "Correct!";
+                } else {
+                    document.getElementById(element).style.color = "red";
+                    document.getElementById(element).innerHTML = "Incorrect";
+                }
+            }
+
+            function recetBtn() {
+                var btns = document.querySelectorAll(".button");
+                btns.forEach(function(btn) {
+                    btn.classList.remove('incorrect');
+                    btn.classList.remove('correct');
+                });
+            }
+
+            function answerGet() {
+                recetBtn();
+                if (event.target.id == "correct") {
+                    event.target.classList.add('correct');
+                    corChecker(true, "res");
+                } else {
+                    event.target.classList.add('incorrect');
+                    corChecker(false, "res");
+                }
+            }
+            document.addEventListener("DOMContentLoaded", function(event) {
+                var btns = document.querySelectorAll(".button");
+                btns.forEach(function(btn) {
+                    btn.addEventListener("click", answerGet);
+                });
+
+                inputField = document.querySelector('input');
+                checkButton = document.querySelector("#check");
+                checkButton.addEventListener('click', function(evt) {
+                    if (inputField.value.toLowerCase() != "seyed mahdi mirbagheri") {
+                        corChecker(false, "frre");
+                    } else {
+                        corChecker(true, "frre");
+                    }
+                });
+            });
+        </script>
+    </head>
+
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <!-- TODO: Add multiple choice question here -->
+                <h4>Who is the best F1 driver ?</h4>
+                <h3 id="res"></h3>
+                <button class="button">Valtteri Bottas</button>
+                <button class="button">Max Verstappen</button>
+                <button id="correct" class="button">Lewis Hamilton</button>
+                <button class="button">Charles Leclerc</button>
+                <button class="button">Sergio Perez</button>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <!-- TODO: Add free response question here -->
+                <h4>Do you know who is the biggest shareholder of F1 in the future?</h4>
+                <h3 id="frre"></h3>
+                <input type="text">
+                <button id="check" class="input">Check!</button>
+            </div>
+        </div>
+    </body>
+
+</html>

@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    History
+{% endblock %}
+
+{% block main %}
+    <!-- Heading -->
+    <h1>Your History</h1>
+
+    <!-- Table -->
+    <table class="table table-success table-striped">
+        <thead>
+            <tr>
+              <th scope="col">Symbols</th>
+              <th scope="col">Shares</th>
+              <th scope="col">Price</th>
+              <th scope="col">Date</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for transaction in transactions %}
+                <tr>
+                    <td>{{ transaction["symbol"].upper() }}</td>
+                    <td>{{ transaction["shares"] }}</td>
+                    <td>{{ usd(transaction["price"]) }}</td>
+                    <td>{{ transaction["time"] }}</td>
+                </tr>
+            {% endfor %}
+          </tbody>
+    </table>
+{% endblock %}
